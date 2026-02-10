@@ -1,0 +1,19 @@
+# PyAutoGen 多智能体框架
+pyautogen>=0.2.0
+
+# 向量数据库
+chromadb>=0.4.0
+
+# Embedding 模型 (CPU友好)
+sentence-transformers>=2.2.0
+
+# 数据可视化
+matplotlib>=3.7.0
+
+# 数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+
+# HTTP 请求 (DeepSeek API)
+openai>=1.0.0
+httpx>=0.24.0
